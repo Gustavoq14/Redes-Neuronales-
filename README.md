@@ -8,6 +8,6 @@ Cada uno de los trabajos prácticos cubren los siguientes temas:
 - TP2: Aprendizaje Supervisado (Perceptron Simple y Multicapa).
 - TP3: Aprendizaje No-Supervisado (Red de Kohonen).
 
-Si el material te sirvio de ayuda dejo unos enlaces para que me ayudes a seguir subiendo mas contenido de este tipo
+Si el material te sirvio de ayuda dejo unos enlaces para que me apoyes a seguir subiendo mas contenido de este tipo
 - [Cafecito](https://cafecito.app/gustavoq14)
 - [PayPal](https://paypal.me/gustavoq14?country.x=VE&locale.x=es_XC)
