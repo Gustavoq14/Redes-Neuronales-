@@ -7,7 +7,3 @@ Cada uno de los trabajos prácticos cubren los siguientes temas:
 - TP1: Red de Hopfield y Modelo de Ising.
 - TP2: Aprendizaje Supervisado (Perceptron Simple y Multicapa).
 - TP3: Aprendizaje No-Supervisado (Red de Kohonen).
-
-Si el material te sirvio de ayuda dejo unos enlaces para que me apoyes a seguir subiendo mas contenido de este tipo
-- [Cafecito](https://cafecito.app/gustavoq14)
-- [PayPal](https://paypal.me/gustavoq141?country.x=AR&locale.x=es_XC)
